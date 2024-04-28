@@ -1,0 +1,1 @@
+# branch-auto-merge-practice
