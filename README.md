@@ -1,2 +1,7 @@
-# branch-auto-merge-practice
-# branch-auto-merge-practice
+# 자동 머지 메커니즘 실습
+
+A
+
+B
+
+D
